@@ -7,7 +7,6 @@ Authors: Emily N., Nayeon S.
 - [webdriver-manager](https://pypi.org/project/webdriver-manager/)
 - Flask
 - wordcloud
-- matplotlib
 
 1. Check that you've installed the required tools.
 2. Go inside the `src` folder that has `main.py`
