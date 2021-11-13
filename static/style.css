@@ -1,5 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap");
 
+@import "./reset.css";
+
 * {
   color: white;
   font-family: "Nanum Gothic", sans-serif;
@@ -15,6 +17,7 @@ html {
 body {
   background-image: url("images/bg-img.jpg");
   background-size: 100vw;
+  background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
   height: 90vh;

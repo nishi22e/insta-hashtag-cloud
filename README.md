@@ -1,6 +1,6 @@
 # Insta Hashtag Cloud
 
-Need to rename this repo
+Authors: Emily N., Nayeon S.
 
 ## Required:
 - Selenium
