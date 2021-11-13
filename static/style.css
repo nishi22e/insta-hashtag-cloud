@@ -1,17 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap");
 
 * {
+  color: white;
   font-family: "Nanum Gothic", sans-serif;
 }
 
 html {
   align-items: center;
   display: flex;
-  flex-direction: column;
   height: 100%;
   justify-content: center;
 }
 
 body {
-    text-align: center;
+  background-image: url("images/bg-img.jpg");
+  background-size: 100vw;
+  display: flex;
+  flex-direction: column;
+  height: 90vh;
+  justify-content: space-between;
+  text-align: center;
 }
