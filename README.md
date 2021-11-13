@@ -6,6 +6,7 @@ Need to rename this repo
 - Selenium
 - [webdriver-manager](https://pypi.org/project/webdriver-manager/)
 - Flask
+- wordcloud
 
 1. Check that you've installed the required tools.
 2. Go inside the `src` folder that has `main.py`
