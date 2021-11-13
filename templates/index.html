@@ -5,10 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
   </head>
   <body>
     <h1>Insta Word Cloud</h1>
-    <form action="/result" method="get">
+    <form method="get">
       <input placeholder="Enter a hashtag" required name="word" />
       <button>Search</button>
     </form>
