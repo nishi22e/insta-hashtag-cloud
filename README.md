@@ -1,12 +1,13 @@
 # Insta Hashtag Cloud
 
-Need to rename this repo
+Authors: Emily N., Nayeon S.
 
 ## Required:
 - Selenium
 - [webdriver-manager](https://pypi.org/project/webdriver-manager/)
 - Flask
 - wordcloud
+- matplotlib
 
 1. Check that you've installed the required tools.
 2. Go inside the `src` folder that has `main.py`
