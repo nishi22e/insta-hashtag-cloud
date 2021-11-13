@@ -11,4 +11,5 @@ Need to rename this repo
 2. Go inside the `src` folder that has `main.py`
 3. Run `$ python main.py` and see if a browser pops up.
 
-## To run the project: `$ python main.py`
+## To run the project:
+`$ python main.py`
