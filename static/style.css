@@ -2,13 +2,9 @@
 
 @import "./reset.css";
 
-* {
-  color: white;
-  font-family: "Nanum Gothic", sans-serif;
-}
-
 html {
   align-items: center;
+  color: white;
   display: flex;
   height: 100%;
   justify-content: center;
@@ -16,11 +12,17 @@ html {
 
 body {
   background-image: url("images/bg-img.jpg");
-  background-size: 100vw;
   background-repeat: no-repeat;
+  background-size: 100vw;
+  color: white;
   display: flex;
   flex-direction: column;
+  font-family: "Nanum Gothic", sans-serif;
   height: 90vh;
   justify-content: space-between;
   text-align: center;
+}
+
+button {
+  color: black;
 }
