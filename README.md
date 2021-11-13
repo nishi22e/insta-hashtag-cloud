@@ -3,6 +3,7 @@
 ## Required:
 - Selenium
 - [webdriver-manager](https://pypi.org/project/webdriver-manager/)
+- Flask
 
 1. Check that you've installed the required tools.
 2. Go inside of the `src` folder that has `main.py`
