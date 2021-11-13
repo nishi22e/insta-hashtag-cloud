@@ -34,7 +34,7 @@ login_button = (
     .click()
 )
 
-################### Manage Alerts###########################
+# Manage Alerts
 
 not_now = (
     WebDriverWait(driver, 10)
@@ -52,11 +52,9 @@ not_now2 = (
     .click()
 )
 
-################# navigate to search bar ###############
 search_bar = driver.find_element_by_class_name("XTCLo")
 search_bar.send_keys(hashtag)
 
-################### Find 10 most relevant hashtags and their num of posts ########
 
 # key = hashtag, value = num posts
 related_hashtags = {}
