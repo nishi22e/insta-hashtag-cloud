@@ -1,4 +1,6 @@
-# Insta Word Cloud
+# Insta Hashtag Cloud
+
+Need to rename this repo
 
 ## Required:
 - Selenium
